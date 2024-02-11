@@ -1,0 +1,1 @@
+This project is a simple multi-step form that allows users to naviagte between different form pages.The project implements react hooks such as useState as well as keeps track of user inputs accross different pages
